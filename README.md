@@ -1,1 +1,3 @@
 # CA684_Memorability_Assignment
+
+Memorability refers to the way or state of remembering something . With the advancement of technology, the amount of video content generated per unit of time has increased exponentially. Some of these videos have a greater emotional effect than others, resulting in higher memorability ratings. Predicting memorability has several practical applications. The organizers of MediaEval provided various pre-computed video based features and frame based features to calculate short-term and long-term memorability scores. In this project, I have used C3D and HMP features and sequential model (Neural Network) to calculate the scores.
